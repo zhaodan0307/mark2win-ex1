@@ -82,6 +82,7 @@ li>a{
 li:hover a{
     border-bottom: 3px solid #2596be;
     transition: color 0.3s 0.1s ease-out;
+
 }
 
 a {
@@ -155,8 +156,9 @@ a {
 }
 .link:hover{
     color: #ffffff;
-    background-color: #e28743;
+    background-color:white;
 
+    box-shadow: 0 0 20px 5px hsl(354, 23%, 84%);
 
 }
 
